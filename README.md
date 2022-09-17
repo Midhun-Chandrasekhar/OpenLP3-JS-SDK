@@ -1,4 +1,4 @@
-# OpenLP3 Python SDK
+# OpenLP3 JavaScript SDK
 Open Loyality Points 3 (OpenLP3) is an opensource Loyality Point platform build top on public blockchain.
 
 <br>
