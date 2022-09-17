@@ -1,0 +1,14 @@
+{
+  "name": "openlp3",
+  "version": "0.1.1",
+  "description": "Open Loyality Points 3 JS SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Midhun Chandrasekhar",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.8.0"
+  }
+}
